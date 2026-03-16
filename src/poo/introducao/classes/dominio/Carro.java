@@ -1,4 +1,4 @@
-package poo.dominio;
+package poo.introducao.classes.dominio;
 
 public class Carro {
     public String nome;

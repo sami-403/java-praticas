@@ -1,6 +1,6 @@
-package poo.test;
+package poo.introducao.classes.test;
 
-import poo.dominio.Aluno;
+import poo.introducao.classes.dominio.Aluno;
 
 public class AlunoTest {
     public static void main(String[] args) {
