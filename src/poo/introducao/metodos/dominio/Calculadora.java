@@ -2,9 +2,7 @@ package poo.introducao.metodos.dominio;
 
 public class Calculadora {
 
-    public int somaDoisNumeros() {
-        System.out.println(10 + 10);
-
-        return 0;
+    public int somaDoisNumeros( int num1, int num2) {
+        return num1 + num2;
     }
 }
